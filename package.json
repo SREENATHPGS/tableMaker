@@ -1,6 +1,6 @@
 {
   "name": "tablemaker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Javascript library that generates HTML tables from json data input.",
   "keywords": [
     "jsonToTable",
